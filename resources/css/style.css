@@ -1,0 +1,48 @@
+body {
+	background-color: black;
+	text-align: center;
+	font-family: Verdana;
+}
+
+.title {
+	color: white;
+	font-family: Verdana;
+	font-weight: normal;
+	font-size: 50px;
+	text-align: center;
+}
+
+.download {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+.video {
+	align-self: center; 
+}
+
+.travel-guide {
+	font-family: Verdana;
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+.description {
+	color: gray;
+	font-family: Verdana;
+	font-size: 21px;
+}
+
+.phone {
+	margin-top: 20px;
+}
+
+.copyright {
+	text-align: right;
+	color: gray;
+}
+
+.margin {
+	margin: 10px;
+}
